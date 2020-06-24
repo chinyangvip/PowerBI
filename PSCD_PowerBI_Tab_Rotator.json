@@ -10,11 +10,6 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/src/settings.html",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 15
-    },
-    {
       "url": "https://app.powerbi.com/groups/me/reports/bd79721f-e5a9-451a-a8d9-f280f728a02f/ReportSection?chromeless=1",
       "duration": 10,
       "tabReloadIntervalSeconds": 15
